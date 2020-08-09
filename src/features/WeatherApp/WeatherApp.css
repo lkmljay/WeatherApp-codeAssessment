@@ -1,0 +1,13 @@
+.weather-detail {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    font-size: 15px;
+    padding: 10px;
+    text-align: left;
+}
+
+.weather-detail-container {
+    display: block;
+    width: 100%;
+}
